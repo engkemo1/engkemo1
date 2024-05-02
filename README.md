@@ -1,5 +1,5 @@
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*259duEMjHj0p54aBrqPQMQ.gif)
+[![MasterHead](https://user-images.githubusercontent.com/16265425/207836953-763fc4de-da14-4ee5-ba25-7905ab7464e8.gif)
 
 <h1 align="center">Hi 👋, I'm kamal magdy kamal</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
