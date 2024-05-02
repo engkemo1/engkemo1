@@ -6,9 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"> 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=engkemo1&label=Profile%20views&color=0e75b6&style=flat" alt="engkemo1" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Sewing app](https://github.com/engkemo1/desktop.git)
 
 - 🌱 I’m currently learning **Nodejs ,Artificial intelligence**
