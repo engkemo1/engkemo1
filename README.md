@@ -8,15 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engkemo1&label=Profile%20views&color=0e75b6&style=flat" alt="engkemo1" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🔭 I’m currently working on [Sewing app](https://github.com/engkemo1/desktop.git)
+
+- 🔭 I’m currently working on Sewing app
 
 - 🌱 I’m currently learning **Nodejs ,Artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/engkemo1](https://github.com/engkemo1)
-
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **Gmail: kemoeng50@gmail.com , mobile: +201206430818**
+- 📫 How to reach me   kemoeng50@gmail.com 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bBmLMlabPfPeK8HQL59kWF1RhDaFjtBH/view?usp=drive_link](https://drive.google.com/file/d/1bBmLMlabPfPeK8HQL59kWF1RhDaFjtBH/view?usp=drive_link)
 
